@@ -21,6 +21,7 @@ Caracteristicas
 * Lista de 19 canciones para elegir.
 * Control de produccion.
 * Boton para elegir el destino de la cancion.
+* El destino de la cancion puede ser, tono de llamada, tono de mensaje, y tono de alarma.
 
 Wireframes
 ---
@@ -36,7 +37,7 @@ Uso
 ---------
 Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
->     $ git clone https://github.com/Gusn8/ProyectoFinal_StudyJam.git
+>     $ git clone https://github.com/aguilarHeredia/ProyectoFinal_StudyJam
 
 Luego de ello dentro de Android Studio:
 
@@ -52,7 +53,7 @@ Aca te muestro cual es el funcionamiento de mi aplicación a grandes rasgos.
     <center>
         <table border="0">
             <tr>
-                <td><img src="/img/screenshot.jpg" width="300"></td>
+                <td><img src="/img/im.gif" width="300"></td>
             </tr>
         </table>
     </center>

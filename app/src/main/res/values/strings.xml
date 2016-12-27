@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Christmas Tones</string>
+
+    <string name="main.r1.titulo">All I Want For Christmas</string>
+    <string name="main.r2.titulo">Carol of Bells</string>
+    <string name="main.r3.titulo">Chipmunk Christmas</string>
+    <string name="main.r4.titulo">Christmas Bells</string>
+    <string name="main.r5.titulo">Christmas Gangnam</string>
+    <string name="main.r6.titulo">Christmas Ringer</string>
+    <string name="main.r7.titulo">Jingle Bell Rock</string>
+    <string name="main.r8.titulo">Last Christmas</string>
+    <string name="main.r9.titulo">Mr. Grinch</string>
+    <string name="main.r10.titulo">Santa Claus Metal</string>
+    <string name="main.r11.titulo">Christmas Cats</string>
+    <string name="main.r12.titulo">Christmas Coca Cola</string>
+    <string name="main.r13.titulo">Christmas Minions</string>
+    <string name="main.r14.titulo">Mi Movil Esta Sonando</string>
+    <string name="main.r15.titulo">Christmas Chewbacca</string>
+    <string name="main.r16.titulo">Polar Express</string>
+    <string name="main.r18.titulo">Arre Borriquito</string>
+    <string name="main.r19.titulo">Mi Burrito Sabanero</string>
+    <string name="main.r20.titulo">Christmas Dogs</string>
+
+    <string name="main.r1.duracion">00:29</string>
+    <string name="main.r2.duracion">00:20</string>
+    <string name="main.r3.duracion">00:17</string>
+    <string name="main.r4.duracion">00:23</string>
+    <string name="main.r5.duracion">00:29</string>
+    <string name="main.r6.duracion">00:12</string>
+    <string name="main.r7.duracion">00:17</string>
+    <string name="main.r8.duracion">00:29</string>
+    <string name="main.r9.duracion">00:22</string>
+    <string name="main.r10.duracion">00:27</string>
+    <string name="main.r11.duracion">00:25</string>
+    <string name="main.r12.duracion">00:29</string>
+    <string name="main.r13.duracion">00:27</string>
+    <string name="main.r14.duracion">00:25</string>
+    <string name="main.r15.duracion">00:36</string>
+    <string name="main.r16.duracion">00:27</string>
+    <string name="main.r18.duracion">00:20</string>
+    <string name="main.r19.duracion">00:35</string>
+    <string name="main.r20.duracion">00:28</string>
+
+    <string name="main.r1.insertar">r1.mp3</string>
+    <string name="main.r2.insertar">r2.mp3</string>
+    <string name="main.r3.insertar">r3.mp3</string>
+    <string name="main.r4.insertar">r4.mp3</string>
+    <string name="main.r5.insertar">r5.mp3</string>
+    <string name="main.r6.insertar">r6.mp3</string>
+    <string name="main.r7.insertar">r7.mp3</string>
+    <string name="main.r8.insertar">r8.mp3</string>
+    <string name="main.r9.insertar">r9.mp3</string>
+    <string name="main.r10.insertar">r10.mp3</string>
+    <string name="main.r11.insertar">r11.mp3</string>
+    <string name="main.r12.insertar">r12.mp3</string>
+    <string name="main.r13.insertar">r13.mp3</string>
+    <string name="main.r14.insertar">r14.mp3</string>
+    <string name="main.r15.insertar">r15.mp3</string>
+    <string name="main.r16.insertar">r16.mp3</string>
+    <string name="main.r18.insertar">r18.mp3</string>
+    <string name="main.r19.insertar">r19.mp3</string>
+    <string name="main.r20.insertar">r20.mp3</string>
+</resources>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="titulo">
+        <item>@string/main.r1.titulo</item>
+        <item>@string/main.r2.titulo</item>
+        <item>@string/main.r3.titulo</item>
+        <item>@string/main.r4.titulo</item>
+        <item>@string/main.r5.titulo</item>
+        <item>@string/main.r6.titulo</item>
+        <item>@string/main.r7.titulo</item>
+        <item>@string/main.r8.titulo</item>
+        <item>@string/main.r9.titulo</item>
+        <item>@string/main.r10.titulo</item>
+        <item>@string/main.r11.titulo</item>
+        <item>@string/main.r12.titulo</item>
+        <item>@string/main.r13.titulo</item>
+        <item>@string/main.r14.titulo</item>
+        <item>@string/main.r15.titulo</item>
+        <item>@string/main.r16.titulo</item>
+        <item>@string/main.r18.titulo</item>
+        <item>@string/main.r19.titulo</item>
+        <item>@string/main.r20.titulo</item>
+    </string-array>
+
+    <string-array name="duracion">
+        <item>@string/main.r1.duracion</item>
+        <item>@string/main.r2.duracion</item>
+        <item>@string/main.r3.duracion</item>
+        <item>@string/main.r4.duracion</item>
+        <item>@string/main.r5.duracion</item>
+        <item>@string/main.r6.duracion</item>
+        <item>@string/main.r7.duracion</item>
+        <item>@string/main.r8.duracion</item>
+        <item>@string/main.r9.duracion</item>
+        <item>@string/main.r10.duracion</item>
+        <item>@string/main.r11.duracion</item>
+        <item>@string/main.r12.duracion</item>
+        <item>@string/main.r13.duracion</item>
+        <item>@string/main.r14.duracion</item>
+        <item>@string/main.r15.duracion</item>
+        <item>@string/main.r16.duracion</item>
+        <item>@string/main.r18.duracion</item>
+        <item>@string/main.r19.duracion</item>
+        <item>@string/main.r20.duracion</item>
+    </string-array>
+
+    <string-array name="icono">
+        <item>@drawable/r1</item>
+        <item>@drawable/r2</item>
+        <item>@drawable/r3</item>
+        <item>@drawable/r4</item>
+        <item>@drawable/r5</item>
+        <item>@drawable/r6</item>
+        <item>@drawable/r7</item>
+        <item>@drawable/r8</item>
+        <item>@drawable/r9</item>
+        <item>@drawable/r10</item>
+        <item>@drawable/r11</item>
+        <item>@drawable/r12</item>
+        <item>@drawable/r13</item>
+        <item>@drawable/r14</item>
+        <item>@drawable/r15</item>
+        <item>@drawable/r16</item>
+        <item>@drawable/r18</item>
+        <item>@drawable/r19</item>
+        <item>@drawable/r20</item>
+    </string-array>
+
+    <string-array name="cancion">
+        <item>@raw/r1</item>
+        <item>@raw/r2</item>
+        <item>@raw/r3</item>
+        <item>@raw/r4</item>
+        <item>@raw/r5</item>
+        <item>@raw/r6</item>
+        <item>@raw/r7</item>
+        <item>@raw/r8</item>
+        <item>@raw/r9</item>
+        <item>@raw/r10</item>
+        <item>@raw/r11</item>
+        <item>@raw/r12</item>
+        <item>@raw/r13</item>
+        <item>@raw/r14</item>
+        <item>@raw/r15</item>
+        <item>@raw/r16</item>
+        <item>@raw/r18</item>
+        <item>@raw/r19</item>
+        <item>@raw/r20</item>
+    </string-array>
+
+    <string-array name="insertar">
+        <item>@string/main.r1.insertar</item>
+        <item>@string/main.r2.insertar</item>
+        <item>@string/main.r3.insertar</item>
+        <item>@string/main.r4.insertar</item>
+        <item>@string/main.r5.insertar</item>
+        <item>@string/main.r6.insertar</item>
+        <item>@string/main.r7.insertar</item>
+        <item>@string/main.r8.insertar</item>
+        <item>@string/main.r9.insertar</item>
+        <item>@string/main.r10.insertar</item>
+        <item>@string/main.r11.insertar</item>
+        <item>@string/main.r12.insertar</item>
+        <item>@string/main.r13.insertar</item>
+        <item>@string/main.r14.insertar</item>
+        <item>@string/main.r15.insertar</item>
+        <item>@string/main.r16.insertar</item>
+        <item>@string/main.r18.insertar</item>
+        <item>@string/main.r19.insertar</item>
+        <item>@string/main.r20.insertar</item>
+    </string-array>
+
+    <string-array name="estado">
+        <item>@drawable/ic_play_circle_outline_white_24dp</item>
+    </string-array>
+
+</resources>

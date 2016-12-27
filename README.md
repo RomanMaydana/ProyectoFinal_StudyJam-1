@@ -53,7 +53,13 @@ Aca te muestro cual es el funcionamiento de mi aplicación a grandes rasgos.
     <center>
         <table border="0">
             <tr>
+                <td> </td>
+            </tr>
+            <tr>
                 <td><img src="/img/im.gif" width="300"></td>
+            </tr>
+            <tr>
+                <td> </td>
             </tr>
         </table>
     </center>
@@ -78,7 +84,6 @@ En este proyecto de utilizáron los siguientes componentes tanto en el `diseño`
 * MediaPlayer, para reproducir y detener las canciones.
 * CustomAdapter, para la manipulacion de listas.
 * Animation, para insertar las animaciones.
-*
 .
 .
 .
@@ -90,4 +95,6 @@ Antonio Roberto Aguilar Heredia
 Contactos
 ---
 aguilarheredia87@gmail.com<br>
+Telf. +591 70122404<br>
+La Paz - Bolivia<br>
 [Facebook](https://www.facebook.com/aguilarheredia)
